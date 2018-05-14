@@ -1,0 +1,16 @@
+{
+    "name": "arogachev/sett3",
+    "description": "sett3",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alexey Rogachev",
+            "email": "arogachev90@gmail.com"
+        }
+    ],
+    "require": {
+        "psr/cache": "~1.0.1",
+        "psr/log": "~1.0.2"
+    }
+}
